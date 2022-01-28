@@ -1,0 +1,45 @@
+{
+    "name": "VillageFoundersDraft-1",
+    "description": "VillageFoundersDraft-1!",
+    "image": "https://ipfs.io/ipfs/...?filename=...",
+    "attributes": [
+      {
+        "trait_type": "reservation",
+        "value": "true"
+      },
+      {
+        "trait_type": "induction",
+        "value": "induction 1"
+      },
+      {
+        "trait_type": "council",
+        "value": "council 1"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "discount",
+        "value": 10
+      },
+      {
+        "trait_type": "physicalArt",
+        "value": "true"
+      },
+      {
+        "trait_type": "events",
+        "value": "events 1"
+      },
+      {
+        "trait_type": "customise",
+        "value": "true"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "invitations",
+        "value": 3
+      },
+      {
+        "trait_type": "stele",
+        "value": "true"
+      }
+    ]
+}
